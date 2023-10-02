@@ -79,6 +79,7 @@ main{
     background: #ff6768;
     border-color: #ff6768;
     transition: all 0.4 ease 0s;
+    cursor: pointer;
     
 }
 #search-input{
